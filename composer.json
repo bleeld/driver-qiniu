@@ -22,9 +22,7 @@
         "issues": "https://github.com/bleeld/driver-qiniu/issues"
     },
     "require": {
-		"php": ">=5.3.3",
-		"bleeld/think-oss": ">=1.0.0",
-		"bleeld/driver-alioss": ">=1.0.0"
+		"php": ">=5.3"
     },
     "autoload": {
         "psr-4": {
