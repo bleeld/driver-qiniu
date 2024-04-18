@@ -24,7 +24,7 @@
     "require": {
         "php": ">=5.3.3",
         "bleeld/think-oss": ">=1.0.0",
-		"bleeld/driver-alioss": ">=1.0.0"
+	"bleeld/driver-alioss": ">=1.0.0"
     },
     "autoload": {
         "psr-4": {
