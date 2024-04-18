@@ -10,7 +10,7 @@
     ],
     "homepage": "https://github.com/bleeld/driver-qiniu/",
     "license": "MIT",
-	"version": "1.0.0",
+	"version": "1.0.1",
     "authors": [
         {
             "name": "dreamlee",
@@ -22,9 +22,15 @@
         "issues": "https://github.com/bleeld/driver-qiniu/issues"
     },
     "require": {
+<<<<<<< HEAD
+		"php": ">=5.3.3",
+		"bleeld/think-oss": ">=1.0.0",
+		"bleeld/driver-alioss": ">=1.0.0"
+=======
         "php": ">=5.3.3",
         "bleeld/think-oss": ">=1.0.0",
-		"bleeld/driver-alioss": ">=1.0.0"
+	"bleeld/driver-alioss": ">=1.0.0"
+>>>>>>> c7cdf8e4c31c0dc09447cf198ca8fdc44a9c4ec3
     },
     "autoload": {
         "psr-4": {
